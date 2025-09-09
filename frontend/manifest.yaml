@@ -23,7 +23,7 @@ spec:
     spec:
       containers:
       - name: frontend
-        image: geethaprudhvi/frontend:1.0.0
+        image: geethaprudhvi/frontend:1.2.0
 ---
 apiVersion: v1
 kind: Service
